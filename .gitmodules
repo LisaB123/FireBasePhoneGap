@@ -1,0 +1,15 @@
+[submodule "www/vendor/conzett/backbone-firebase"]
+	path = www/vendor/conzett/backbone-firebase
+	url = git://github.com/conzett/backbone-firebase.git
+[submodule "www/vendor/powmedia/backbone-forms"]
+	path = www/vendor/powmedia/backbone-forms
+	url = git://github.com/powmedia/backbone-forms.git
+[submodule "www/vendor/documentcloud/backbone"]
+	path = www/vendor/documentcloud/backbone
+	url = git://github.com/documentcloud/backbone.git
+[submodule "www/vendor/documentcloud/underscore"]
+	path = www/vendor/documentcloud/underscore
+	url = git://github.com/documentcloud/underscore.git
+[submodule "www/vendor/jquery/jquery"]
+	path = www/vendor/jquery/jquery
+	url = git://github.com/jquery/jquery.git
